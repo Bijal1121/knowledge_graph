@@ -2,7 +2,6 @@
 name = "knowledge-graph"  # Fixed typo in name
 version = "0.1.0"
 description = "Knowledge Graph package for code analysis"  # Added description
-authors = ["Nayak <rahul.nyk@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
